@@ -7,8 +7,6 @@ A Recommender System for LastFM dataset. TensorFlow.
 ### Project Status
 Project is: _complete_
 
-_This project was completed in collaboration with [swiatej](https://github.com/swiatej)_
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Dataset](#dataset)
